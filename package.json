@@ -1,0 +1,25 @@
+{
+  "name": "asyncs",
+  "description": "So many asyncs",
+  "main": "index.js",
+  "version": "0.0.0",
+  "browserify": {
+    "transform": []
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nichoth/asyncs.git"
+  },
+  "license": "ISC",
+  "peerDependencies": {},
+  "devDependencies": {},
+  "dependencies": {
+    "async": "^1.4.2",
+    "co": "^4.6.0",
+    "highland": "^2.5.1"
+  }
+}
